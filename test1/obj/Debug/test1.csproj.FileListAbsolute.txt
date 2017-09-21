@@ -1,0 +1,8 @@
+D:\project\mine\Test\test1\bin\Debug\test1.exe.config
+D:\project\mine\Test\test1\bin\Debug\test1.exe
+D:\project\mine\Test\test1\bin\Debug\test1.pdb
+D:\project\mine\Test\test1\obj\Debug\test1.csprojResolveAssemblyReference.cache
+D:\project\mine\Test\test1\obj\Debug\test1.exe
+D:\project\mine\Test\test1\obj\Debug\test1.pdb
+D:\project\mine\Test\test1\bin\Debug\System.ValueTuple.dll
+D:\project\mine\Test\test1\bin\Debug\System.ValueTuple.xml
